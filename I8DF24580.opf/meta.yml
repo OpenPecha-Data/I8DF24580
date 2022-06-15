@@ -1,0 +1,31 @@
+id: I8DF24580
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-15T20:09:38.054835'
+last_modified: '2022-06-15T20:09:38.054846'
+parser: null
+source_metadata:
+  title: Śāntarakṣita
+  language: en
+  description: 'Texts by and about the eighth-century master Śāntarakṣita (zhi ba
+    ''tsho), who, as the first abbot of Samyé Monastery, played a major role in the
+    establishment of Buddhism in Tibet:'
+  volume:
+    f5B69:
+      title: 'Gentle Splendour: Praises to the Great Abbot Śāntarakṣita'
+      base_file: f5B69.txt
+      order: 1
+      parent: Praise
+    f44FD:
+      title: 'The Tree of Awakening: A Prayer to the Great Abbot Śāntarakṣita'
+      base_file: f44FD.txt
+      order: 2
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
